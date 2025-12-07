@@ -34,8 +34,11 @@ ________________________________________________________________________________
 
 AI_Portfolio/
 ├── Automated_Prompt_Testing.ipynb   # Main Colab notebook
+
 ├── prompts.csv                      # Input prompts (editable)
+
 ├── output.csv                       # Saved model responses
+
 └── screenshots/                     # Proof-of-execution images
 ___________________________________________________________________________________________________________________________________________
 
@@ -69,21 +72,27 @@ ________________________________________________________________________________
 **Step 1 – Prepare Prompts:** Creating and previewing the `prompts.csv` file.
 
 <img width="633" height="780" alt="Step1_PromptCSV_Example" src="https://github.com/user-attachments/assets/d800e1f9-e6c4-4cd0-bc6b-971a87bae367" />
+
 <img width="339" height="408" alt="Step1_PromptCSV_Example" src="https://github.com/user-attachments/assets/1bf2d6d2-00b4-4472-bd17-1d4feb21dba9" />
 ___________________________________________________________________________________________________________________________________________
 
 **Step 2 – Define Batch Workflow Function:** This screenshot shows the batch function that reads prompts from the CSV, sends them to Gemini, and saves the responses.
 
 <img width="418" height="690" alt="Step2_PromptCSV_Example" src="https://github.com/user-attachments/assets/707d3486-6487-4286-952b-aa87e3e1cd0f" />
+
 <img width="321" height="651" alt="Step2_PromptCSV_Example" src="https://github.com/user-attachments/assets/ff14bae6-93d7-4a2f-982c-afea94134341" />
+
 <img width="1830" height="474" alt="Step2_PromptCSV_Example" src="https://github.com/user-attachments/assets/d9bc6e7e-c025-4631-9c88-7b60a474b342" />
+
 <img width="254" height="530" alt="Step2_PromptCSV_Example" src="https://github.com/user-attachments/assets/97b7110e-55bd-4a87-9c6d-f3d95321524a" />
+
 <img width="370" height="706" alt="Step2_PromptCSV_Example" src="https://github.com/user-attachments/assets/dc30b656-cb4e-48a8-8eb7-2aa81889bb83" />
 ___________________________________________________________________________________________________________________________________________
 
 **Step 3 – Run Batch Process:** This screenshot shows executing the batch function, sending prompts to Gemini, and previewing the timestamped output CSV.
 
 <img width="324" height="523" alt="Step3_PromptCSV_Example" src="https://github.com/user-attachments/assets/0ca6ef0b-0a0c-4e27-961d-0bef91df5610" />
+
 <img width="817" height="587" alt="Step3_PromptCSV_Example" src="https://github.com/user-attachments/assets/00a80d1c-e790-44c7-bfa4-d9e1c700c500" />
 ___________________________________________________________________________________________________________________________________________
 
