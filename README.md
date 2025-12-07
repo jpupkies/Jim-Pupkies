@@ -42,7 +42,7 @@ This diagram shows the end-to-end flow of the batch prompt runner:
 3. Collect responses
 4. Save responses to `output.csv`
 
-![Workflow Diagram](screenshots/Section4.1.png<img width="567" height="740" alt="Section4 1" src="https://github.com/user-attachments/assets/529a1dc6-ec70-42e1-958d-d7d3998a10bc" />
+<img width="567" height="740" alt="Section4 1" src="https://github.com/user-attachments/assets/529a1dc6-ec70-42e1-958d-d7d3998a10bc" />
 )
 ____________________________________________________________________________________________________________________________
 
