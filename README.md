@@ -119,36 +119,59 @@ ____
 
 Screnshots/Evidence of Execution
 Figure 1, Section 1 - Setup
+<br>
 <img width="322" height="707" alt="Section 1 1" src="https://github.com/user-attachments/assets/845e8d33-c517-4fce-8e63-e8e35210e1bf" />
+<br>
 Figure 2, Section 1 - Gemini Helper Function
+<br>
 <img width="621" height="143" alt="Section1 2" src="https://github.com/user-attachments/assets/5fe6c11f-c82e-47bf-8ecc-4cd52d26cace" />
-
+<br>
 Figure 1, Section 2 - Get Model Responses
+<br>
 <img width="321" height="650" alt="Section2 1" src="https://github.com/user-attachments/assets/bf89370f-0486-4e77-a1d0-40b3a93b2204" />
+<br>
 
 Figure 2, Section 2 - List Available Gemini Models
+<br>
 <img width="147" height="352" alt="Section2 2" src="https://github.com/user-attachments/assets/080dd257-94e8-48c9-9194-64083d5250a3" />
+<br>
 
 Figure 3, Section 2 - Sample Prompts
+<br>
 <img width="166" height="155" alt="Section2 3" src="https://github.com/user-attachments/assets/a3c862a4-b170-4ed7-b16a-c2a7fe7b9723" />
+<br>
 
 Figure 4, Section 2 - Display First 10 Responses
+<br>
 <img width="397" height="234" alt="Section2 4" src="https://github.com/user-attachments/assets/a314f9d5-0b74-4621-ba49-a7920716ea99" />
+<br>
 
 Figure 5, Section 2 - More Demonstration
+<br>
 <img width="169" height="141" alt="Section2 5" src="https://github.com/user-attachments/assets/7553223b-f6d7-4cf6-9207-9e47c0b6daa7" />
+<br>
 
 Figure 6, Section 2
+<br>
 <img width="298" height="68" alt="Section2 6" src="https://github.com/user-attachments/assets/4a7defed-bb7f-4a0b-ac7d-08c1ae42e837" />
+<br>
 
 Figure 1, Section 3 - Run Batch Processing Step 1
+<br>
 <img width="824" height="701" alt="Section3 1" src="https://github.com/user-attachments/assets/554920a7-0bb1-47bf-b8d7-01a91f4fd9bd" />
+<br>
 
 Figure 2, Section 3 - Step 2
+<br>
 <img width="830" height="628" alt="Section3 2" src="https://github.com/user-attachments/assets/b0220632-fdb2-43e1-a7a0-a33bf012c771" />
+<br>
 
 Figure 2, Section 3 - Example
+<br>
 <img width="824" height="653" alt="Section3 3" src="https://github.com/user-attachments/assets/7214462c-78d8-421f-be79-b0847110723d" />
+<br>
 
 Figure 1, Section 4 - Workflow Diagram
+<br>
 <img width="567" height="740" alt="Section4 1" src="https://github.com/user-attachments/assets/db621b25-82a2-4180-985e-71b59bf41bc6" />
+<br>
