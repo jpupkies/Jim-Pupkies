@@ -118,6 +118,7 @@ Next Steps
 ____
 
 Screnshots/Evidence of Execution
+<br>
 Figure 1, Section 1 - Setup
 <br>
 <img width="322" height="707" alt="Section 1 1" src="https://github.com/user-attachments/assets/845e8d33-c517-4fce-8e63-e8e35210e1bf" />
