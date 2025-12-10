@@ -37,13 +37,16 @@ To run the notebook interactively:
 ## Screenshots
 
 - **Step 1:** Setup  
-  ![Step1 Setup](screenshots/Step1_Setup.png)
+ <img width="1787" height="523" alt="Step1_Setup" src="https://github.com/user-attachments/assets/de44dea4-c25a-47fc-bc96-71c0eeb84c99" />
+
 
 - **Step 2:** Interactive Prompt Interface  
-  ![Step2 Interactive](screenshots/Step2_Interactive_Prompt_Interface.png)
+<img width="1837" height="840" alt="Step2_Interactive_Prompt_Interface" src="https://github.com/user-attachments/assets/ac52dd66-eed3-493f-8076-3f9273405d0f" />
+
 
 - **Step 3:** Example Prompts with Captions  
-  ![Step3 Example Prompts](screenshots/Step3_Example_Prompts_with_Captions.png)
+<img width="1773" height="747" alt="Step3_Example_Prompts_with_Captions" src="https://github.com/user-attachments/assets/0504cdbe-2aa9-491e-a376-0d355badb5fb" />
+
 
 ## Notes
 
