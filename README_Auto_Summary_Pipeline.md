@@ -18,6 +18,7 @@ It allows you to feed a text file (`input.txt`) and automatically generate conci
 ## File Structure
 
 /content/
+<br>
 ├── screenshots/
 <br>
 │ ├── Step 2 - Configure API & Load Text File.png
