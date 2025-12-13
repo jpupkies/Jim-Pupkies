@@ -19,10 +19,15 @@ It allows you to feed a text file (`input.txt`) and automatically generate conci
 
 /content/
 ├── screenshots/
+<br>
 │ ├── Step 2 - Configure API & Load Text File.png
+<br>
 │ └── Step 5 - Run the Auto-Summary Pipeline.png
+<br>
 ├── input.txt
+<br>
 ├── Auto_Summary_Pipeline.ipynb
+<br>
 └── README_Auto_Summary_Pipeline.md
 
 
@@ -47,7 +52,7 @@ It allows you to feed a text file (`input.txt`) and automatically generate conci
 
    genai.configure(api_key=getpass.getpass("Enter your Gemini API key: "))
 
-2. Load the text file
+2. **Load the text file**
 
 Ensure input.txt exists in the notebook folder. The helper function will read its content:
 from pathlib import Path
@@ -57,7 +62,7 @@ def load_text_file(filename="input.txt"):
         raise FileNotFoundError(f"{filename} not found!")
     return Path(filename).read_text(encoding="utf-8")
 
-3. Run Auto-Summary
+3. **Run Auto-Summary**
 
 The notebook contains a ready-to-run pipeline that generates a summary from the loaded text.
 
@@ -72,7 +77,7 @@ Step 5 - Run the Auto-Summary Pipeline
 <img width="1780" height="770" alt="Step 5 - Run the Auto-Summary Pipeline" src="https://github.com/user-attachments/assets/bf00a1c8-3d7a-4c94-accb-22d4a4557fb1" />
 <br>
 
-Notes
+**Notes**
 
 - Ensure your Gemini API key is kept private. Do not commit it to GitHub.
 
@@ -81,7 +86,7 @@ Notes
 - input.txt can contain any text content you want to summarize; the model automatically handles large text inputs.
 ___
 
-Next Steps
+**Next Steps**
 
 - Extend the pipeline to process multiple text files at once.
 
@@ -90,6 +95,6 @@ Next Steps
 - Experiment with different Gemini models to compare summary quality.
 ___
 
-License
+**License**
 
 This notebook and associated files are provided for personal and educational use. Do not share API keys publicly.
