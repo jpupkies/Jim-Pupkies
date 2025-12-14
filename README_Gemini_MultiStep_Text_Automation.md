@@ -37,7 +37,8 @@ For quota-safe demonstration purposes, no live API calls are executed in this no
 
 Screenshot:
 
-![Step 2 - Configure Gemini API Key](screenshots/Step 2 - Configure Gemini API Key.png)
+<img width="1775" height="126" alt="Step 2 - Configure Gemini API Key" src="https://github.com/user-attachments/assets/89e090e4-485b-4aa7-8cfa-341a2bdde664" />
+
 
 ### Step 3 — Prepare Sample Data
 
@@ -65,7 +66,8 @@ Structured JSON fields are expanded into individual columns for clear, tabular p
 
 Screenshot:
 
-![Step 3-5 - Use Fully Simulated Outputs](screenshots/Step 3-5 - Use Fully Simulated Outputs.png)
+<img width="1810" height="785" alt="Step 3-5 - Use Fully Simulated Outputs" src="https://github.com/user-attachments/assets/f3d58f44-50c1-44f5-b9a0-7e2d2103e526" />
+
 
 ## Usage Notes
 
