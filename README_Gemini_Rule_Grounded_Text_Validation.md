@@ -38,6 +38,7 @@ A small dataset includes valid entries, invalid entries, and edge cases for demo
 - `The company announced record quarterly earnings, exceeding analyst expectations.` ✅  
 
 **Screenshot:** Step 2 — Sample Text
+<img width="1718" height="644" alt="Step 2 - Sample Text" src="https://github.com/user-attachments/assets/a392e869-db58-4abd-bf05-b1d98687ea19" />
 
 ---
 
@@ -45,6 +46,7 @@ A small dataset includes valid entries, invalid entries, and edge cases for demo
 Each text is converted into a strict JSON prompt for Gemini, ensuring reproducible evaluation:
 
 **Screenshot:** Step 3 — Test Prompt
+<img width="1723" height="650" alt="Step 3 - Test Prompt" src="https://github.com/user-attachments/assets/403e824d-03fe-4990-bfb7-8b60133fadf0" />
 
 ---
 
